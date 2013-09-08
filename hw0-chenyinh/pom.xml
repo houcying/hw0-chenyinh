@@ -2,11 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-chenyinh</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<scm>
   	<connection>scm:git:git@github.com:houcying/hw0-chenyinh.git</connection>
   	<developerConnection>scm:git:git@github.com:houcying/hw0-chenyinh.git</developerConnection>
-  </scm>
+  	<url>h</url>
+	</scm>
   <repositories><repository>
     <id>deployment</id>
     <url>http://mu.lti.cs.cmu.edu:8081/nexus/content/groups/course</url>

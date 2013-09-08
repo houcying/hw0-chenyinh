@@ -8,7 +8,7 @@ import edu.stanford.nlp.process.Tokenizer;
 /**
  * An example for Homework 0 of 11791 F13
  * 
- * @author chenyinh <ziy@cs.cmu.edu>
+ * @author chenyinh 
  */
 
 public class DependencyExample {
